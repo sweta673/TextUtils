@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sweta673.github.io/textutils/static/css/main.cf6654c1.css",
-    "main.js": "/sweta673.github.io/textutils/static/js/main.2964803f.js",
-    "static/js/453.a43495d3.chunk.js": "/sweta673.github.io/textutils/static/js/453.a43495d3.chunk.js",
-    "index.html": "/sweta673.github.io/textutils/index.html",
-    "main.cf6654c1.css.map": "/sweta673.github.io/textutils/static/css/main.cf6654c1.css.map",
-    "main.2964803f.js.map": "/sweta673.github.io/textutils/static/js/main.2964803f.js.map",
-    "453.a43495d3.chunk.js.map": "/sweta673.github.io/textutils/static/js/453.a43495d3.chunk.js.map"
+    "main.css": "/textutils/static/css/main.cf6654c1.css",
+    "main.js": "/textutils/static/js/main.2c77a78c.js",
+    "static/js/453.a43495d3.chunk.js": "/textutils/static/js/453.a43495d3.chunk.js",
+    "index.html": "/textutils/index.html",
+    "main.cf6654c1.css.map": "/textutils/static/css/main.cf6654c1.css.map",
+    "main.2c77a78c.js.map": "/textutils/static/js/main.2c77a78c.js.map",
+    "453.a43495d3.chunk.js.map": "/textutils/static/js/453.a43495d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf6654c1.css",
-    "static/js/main.2964803f.js"
+    "static/js/main.2c77a78c.js"
   ]
 }
